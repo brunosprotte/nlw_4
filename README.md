@@ -1,8 +1,8 @@
 # NLW 4
 
-Desta vez a Rocketseat mudou o formato do evento Next Level Week e trouxe 3 trilhas de foco
+Desta vez a Rocketseat mudou o formato do evento Next Level Week e trouxe 3 trilhas de foco, front-end, back-end e mobile
 
-Este projeto traz a trilha de ReactJS e o foco é no uso da ContextAPI, uma forma aprimorada de compartilhar dados entre os componentes da aplicação
+Este projeto traz a trilha front-end com ReactJS e Next.JS e o foco é no uso da ContextAPI, uma forma aprimorada de compartilhar dados entre os componentes da aplicação
 
 O uso da context API neste projeto pode ser observado nos componentes `ChallengesContext` e `CountdownContext`
 
